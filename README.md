@@ -8,7 +8,40 @@ This repository is to brief the investigations on lung cancer diagnosis using au
 
 Fluorescence lifetime is characterized by a decay from the excited state to the ground state and reveals unique characteristics of endogenous fluorescence in biological samples, which is independent of fluorescence concentration but sensitive to the biological environment. Fluorescence lifetime imaging endo/microscopy (FLIM) can utilise lifetime contrast between healthy/unhealthy biological tissue. Fig. 1 demonstrates an example of lifetime contrast between healthy and cancerous tissue, where averaged lifetime is derived by histogramming lifetime images.
 
-# The datasets
+# The dataset
+So far, 21 pairs of ex-vivo hunman lung have been examined and numerous dual-band FLIM images have been collected, containing over 100,000 FLIM images. The overall information of the dataset is listed in the below table. Note that it is slighly different from Table 1 in [3] as more data from 3 patients has been added. Note that since the collection is still ongoing, more data will be added over time. The unique FLIM dataset
+is now publically available on [Edinburgh DataShare](https://datashare.ed.ac.uk/)
+
+If you find this dataset is helpful, please cite:
+> Qiang Wang, James R. Hopgood, Susan Fernandes, Neil Finlayson, Gareth OS Williams, Ahsan Akram, Kevin Dhaliwal, and Marta Vallejo. "A Layer-Level Multi-Scale Architecture for Lung Cancer Classification with Fluorescence Lifetime Imaging Endomicroscopy". Neural Computing and Applications. 2021. Under review.
+
+
+|    **Patient #**|  **# Cancer**| **# Normal**  |
+|-----|-----|-----|
+|20181023_lungtissue_normal_cancer_CR34|904|1712|
+|20181026_LungTissue_Normal_Cancer_CR35|168|348|
+|20181031_lungtissue_normal_cancer_CR36|840|2520|
+|20181108_LungTissue_Normal_Cancer_CR38|260|280|
+|20181112_Lungtissue_normal_cancer_CR39|40|360|
+|20181115_lungtissue_normal_cancer_CR41|880|1300|
+|20181123_lungtissue_normal_cancer_CR42|1080|1320|
+|20181218_LungTissue_Normal_Cancer_CR44|0|2400|
+|20190110_LungTissue_Normal_Cancer_CR46|792|1186|
+|20190116_15_25_17_CR48|396|396|
+|20190129_10_51_20_CR49|1196|1994|
+|20190130_11_52_51_CR50|1196|1202|
+|20190201_14_19_46_CR51|598|2790|
+|20190208_13_18_07_CR52|1200|1200|
+|20190220_10_34_46_CR53|1698|200|
+|20190227_13_55_13_CR54|992|894|
+|20190305_13_51_46_Cr55|140|180|
+|20190306_11_19_41_Cr56|280|120|
+|20190307_14_32_11_CR57|240|180|
+|20190311_14_25_39_cr58|126|120|
+|20190311_14_25_39_cr59|128|140|
+| **Total** | **13154**| **20842**|
+
+
 
 
 # Machine learning-based classification
