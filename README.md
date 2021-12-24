@@ -14,6 +14,9 @@ So far, 21 pairs of ex-vivo hunman lung have been examined and numerous dual-ban
 The FLIM dataset is available on [Edinburgh DataShare](https://datashare.ed.ac.uk/). A simple data loading and processing can be found [here](./data_post_processing.ipynb). If you find this dataset is helpful, please cite:
 > Qiang Wang, James R. Hopgood, Susan Fernandes, Neil Finlayson, Gareth OS Williams, Ahsan Akram, Kevin Dhaliwal, and Marta Vallejo. "A Layer-Level Multi-Scale Architecture for Lung Cancer Classification with Fluorescence Lifetime Imaging Endomicroscopy". Neural Computing and Applications. 2021. Under review.
 
+or
+> Qiang Wang, James R. Hopgood, Neil Finlayson, Gareth OS Williams, Susan Fernandes, Elvira Williams, Ahsan Akram, Kevin Dhaliwal, and Marta Vallejo. "Deep Learning in ex-vivo Lung Cancer Discrimination using Fluorescence Lifetime Endomicroscopic Images". in  42nd Annual International Conferences of the IEEE Engineering in Medicine and Biology Society. Québec, Quebec, Canada,  20 July 2020
+
 
 |    **Patient #**|  **# Cancer**| **# Normal**  |
 |-----|-----|-----|
