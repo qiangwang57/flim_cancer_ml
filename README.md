@@ -11,7 +11,7 @@ Fluorescence lifetime is characterized by a decay from the excited state to the 
 # The dataset
 So far, 21 pairs of ex-vivo hunman lung have been examined and numerous dual-band FLIM images have been collected, containing over 100,000 FLIM images. The overall information of the dataset is listed in the below table. Note that it is slighly different from Table 1 in [3] as more data from 3 patients has been added. Note that since the collection is still ongoing, more data will be added over time. 
 
-The FLIM dataset is available on [Edinburgh DataShare](https://datashare.ed.ac.uk/). A simple data loading and processing can be found [here](./data_post_processing.ipynb). If you find this dataset is helpful, please cite:
+The FLIM dataset is available on [Edinburgh DataShare](https://doi.org/10.7488/ds/3269). A simple data loading and processing can be found [here](./data_post_processing.ipynb). If you find this dataset is helpful, please cite:
 > Qiang Wang, James R. Hopgood, Susan Fernandes, Neil Finlayson, Gareth OS Williams, Ahsan Akram, Kevin Dhaliwal, and Marta Vallejo. "A Layer-Level Multi-Scale Architecture for Lung Cancer Classification with Fluorescence Lifetime Imaging Endomicroscopy". Neural Computing and Applications. 2021. Under review.
 
 or
