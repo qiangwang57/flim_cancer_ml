@@ -12,7 +12,7 @@ Fluorescence lifetime is characterized by a decay from the excited state to the 
 So far, 21 pairs of ex-vivo hunman lung have been examined and numerous dual-band FLIM images have been collected, containing over 100,000 FLIM images. The overall information of the dataset is listed in the below table. Note that it is slighly different from Table 1 in [3] as more data from 3 patients has been added. Note that since the collection is still ongoing, more data will be added over time. 
 
 The FLIM dataset is available on [Edinburgh DataShare](https://doi.org/10.7488/ds/3269). A simple data loading and processing can be found [here](./data_post_processing.ipynb). If you find this dataset is helpful, please cite:
-> Qiang Wang, James R. Hopgood, Susan Fernandes, Neil Finlayson, Gareth OS Williams, Ahsan Akram, Kevin Dhaliwal, and Marta Vallejo. "A Layer-Level Multi-Scale Architecture for Lung Cancer Classification with Fluorescence Lifetime Imaging Endomicroscopy". Neural Computing and Applications. 2021. Under review.
+> Qiang Wang, James R. Hopgood, Susan Fernandes, Neil Finlayson, Gareth OS Williams, Ahsan Akram, Kevin Dhaliwal, and Marta Vallejo. "A Layer-Level Multi-Scale Architecture for Lung Cancer Classification with Fluorescence Lifetime Imaging Endomicroscopy". Neural Comput & Applic 34, 18881–18894 (2022).
 
 or
 > Qiang Wang, James R. Hopgood, Neil Finlayson, Gareth OS Williams, Susan Fernandes, Elvira Williams, Ahsan Akram, Kevin Dhaliwal, and Marta Vallejo. "Deep Learning in ex-vivo Lung Cancer Discrimination using Fluorescence Lifetime Endomicroscopic Images". in  42nd Annual International Conferences of the IEEE Engineering in Medicine and Biology Society. Québec, Quebec, Canada,  20 July 2020
